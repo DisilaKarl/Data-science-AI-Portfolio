@@ -1,5 +1,6 @@
-Homework: Data Exploration
+# Homework 1 : Data Exploration
 
+## Obejctive
 The objective of this exercise is to perform data exploration using Pandas and to calculate various statistical measures for a real dataset. By the end of the exercise, you should be able to:
 Load a dataset into a Pandas DataFrame
 Explore the structure and format of the data
@@ -17,7 +18,7 @@ df["target"] = df["target"].map({0: "setosa", 1: "versicolor", 2: "virginica"})
 ------------------------
 
 
-Instructions
+## Instructions
 Load the "Iris" dataset into a Pandas DataFrame using the code provided above.
 Display the first 5 rows of the DataFrame using the "head()" method.
 Check the shape of the DataFrame using the "shape" attribute.
