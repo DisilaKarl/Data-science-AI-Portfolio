@@ -6,6 +6,7 @@ Clean the data to make it consistent and ready for analysis.
 Handle missing values and duplicates.
 Prepare the data for training models.
 Steps in the notebook
+
 Load the data: Import the data from a file (CSV, Excel, etc.).
 Quick inspection: Check the first few rows and the data types.
 Handle missing values: Remove or replace missing values.
@@ -13,6 +14,7 @@ Remove duplicates: Identify and remove duplicate rows.
 Convert data types: Ensure each column has the correct data type (e.g., dates or numbers).
 Normalize the data: Apply transformations if necessary to scale the data.
 Save the cleaned data: Save the prepared data for analysis or model training.
+
 Prerequisites
 Python 3.x
 Libraries:
@@ -21,10 +23,10 @@ NumPy
 Matplotlib
 Installation
 Clone this project or download the notebook.
+
 Install the necessary libraries:
-bash
-Copy code
 pip install pandas numpy matplotlib
+
 Open the notebook in Jupyter or your preferred IDE.
 Example usage
 In this notebook, we will:
