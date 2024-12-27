@@ -86,12 +86,17 @@ This section contains Jupyter notebooks that accompany the exercises above:
 
 ## Data Exploration:
 Notebook 1: CLA-01-Introduction-to-pandas
+
 Notebook 2: G_DAY2_Statistics_practice
+
 Notebook 3: G_Day02_Hypothesis_Testing_Confidence_intervall
+
 Data Cleaning and Transformation:
 
 Notebook 4: Missing_Values_Handling
+
 Notebook 5: Outliers_Detection
+
 Notebook 6: Imbalanced_Data_Handling
 
 ## Homework
