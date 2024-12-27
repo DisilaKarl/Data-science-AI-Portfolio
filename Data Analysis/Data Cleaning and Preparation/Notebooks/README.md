@@ -20,8 +20,9 @@ A practice notebook covering all of the techniques above, along with categorical
 ## Usage
 ## Clone this repository to your local machine:
 
+git clone : 
+      https://github.com/yourusername/data-cleaning-preparation.git
 
-git clone https://github.com/yourusername/data-cleaning-preparation.git
 Open each notebook in Jupyter Notebook or JupyterLab to explore the techniques.
 
 Run the notebooks to apply data cleaning and preparation techniques to your datasets.
@@ -30,15 +31,15 @@ Run the notebooks to apply data cleaning and preparation techniques to your data
 
 Make sure you have the following libraries installed:
 
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+      pandas
+      numpy
+      matplotlib
+      seaborn
+      scikit-learn
+
 You can install them using pip:
 
-
-pip install pandas numpy matplotlib seaborn scikit-learn
+      pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## Contact
 
