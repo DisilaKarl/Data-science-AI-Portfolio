@@ -46,14 +46,15 @@ Run the notebooks to practice data exploration and apply the techniques to your 
 
 Make sure you have the following libraries installed to run the notebooks:
 
-pandas
-numpy
-matplotlib
-seaborn
-scipy
+      pandas
+      numpy
+      matplotlib
+      seaborn
+      scipy
+
 You can install them via pip:
 
-pip install pandas numpy matplotlib seaborn scipy
+      pip install pandas numpy matplotlib seaborn scipy
 
 ## Contact
 
