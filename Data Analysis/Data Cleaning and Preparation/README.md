@@ -35,6 +35,7 @@ Open the notebooks in Jupyter Notebook or JupyterLab to explore each cleaning te
 Run each notebook to see how to apply these techniques to your own datasets.
 
 ## Dependencies
+
 Make sure to install the following libraries:
 
 pandas
@@ -42,7 +43,14 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+
 You can install them using pip:
 
-
 pip install pandas numpy matplotlib seaborn scikit-learn
+
+## Contact
+
+For any questions or feedback, feel free to reach out:
+
+Email: disila.karl@hotmail.com
+LinkedIn: Disila Karl William
