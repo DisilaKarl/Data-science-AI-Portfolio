@@ -4,15 +4,13 @@ This section contains tasks related to data collection, preprocessing, explorati
 
 ### Homeworks
 The *homeworks* directory contains the assignments and solutions from the bootcamp:
-- [Homework 1: Data Preprocessing](homeworks/homework1.ipynb)
-- [Homework 2: Missing Value Handling](homeworks/homework2.ipynb)
-- [Homework 3: Feature Engineering](homeworks/homework3.ipynb)
+- [Homework 1: Homework_Data_Exploration](homeworks/Homework_Data_Exploration.ipynb)
 
 ### Notebooks
 The *notebooks* directory includes Jupyter notebooks for data analysis and exploration:
-- [Notebook 1: Exploratory Data Analysis](notebooks/notebook1.ipynb)
-- [Notebook 2: Data Visualization](notebooks/notebook2.ipynb)
-- [Notebook 3: Statistical Analysis](notebooks/notebook3.ipynb)
+- [Notebook 1: CLA_introduction_to_pandas](notebooks/CLA_introduction_to_pandas.ipynb)
+- [Notebook 2: G_DAY2_Statistics_practice](notebooks/G_DAY2_Statistics_practice.ipynb)
+- [Notebook 3: G_Day02_Hypothesis_Testing_Confidence_intervall](notebooks/Hypothesis_Testing_Confidence_intervall.ipynb)
 
 ### Additional Exercises Outside Bootcamp
 The *additional_exercises_outside_bootcamp* directory contains extra exercises:
