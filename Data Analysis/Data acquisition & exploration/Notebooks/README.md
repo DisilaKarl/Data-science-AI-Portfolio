@@ -42,14 +42,15 @@ Run the notebooks to practice and apply the concepts to your own data.
 
 Ensure the following libraries are installed:
 
-pandas
-numpy
-scipy
-matplotlib
-seaborn
-You can install them using pip:
+      pandas
+      numpy
+      scipy
+      matplotlib
+      seaborn
 
-pip install pandas numpy scipy matplotlib seaborn
+You can install them using pip:
+      
+      pip install pandas numpy scipy matplotlib seaborn
 
 ## Contact
 For any questions, feel free to reach out:
