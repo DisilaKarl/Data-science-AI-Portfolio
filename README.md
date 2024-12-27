@@ -4,16 +4,13 @@ Bienvenue sur mon portfolio GitHub ! Ce dépôt contient une collection de proje
 
 ## Projets
 
-### 1. Pre Work: Python
-Ce répertoire contient des exercices pratiques réalisés pour renforcer mes compétences en Python. Les travaux incluent des manipulations de données, des scripts et des projets d'analyse, permettant de maîtriser les fondamentaux du langage.
-
-### 2. Data Analysis
+### 1. Data Analysis
 Dans ce répertoire, vous trouverez des projets liés à l'analyse de données. Ces projets impliquent la collecte, l'exploration, le nettoyage, et la visualisation de données à partir de diverses sources. Des techniques statistiques et des méthodes de visualisation sont appliquées pour extraire des insights significatifs.
 
-### 3. Machine Learning
+### 2. Machine Learning
 Ce répertoire est dédié aux projets d'apprentissage automatique. Vous y trouverez des modèles prédictifs, des évaluations de performance et des visualisations des résultats. Les projets couvrent des techniques d'apprentissage supervisé et non supervisé, utilisant des bibliothèques comme scikit-learn.
 
-### 4. Deep Learning
+### 3. Deep Learning
 Ce répertoire est consacré aux projets de Deep Learning. Vous y découvrirez des implémentations de réseaux de neurones profonds, des analyses de performance et des visualisations des résultats. Les projets peuvent inclure des travaux avec des bibliothèques telles que TensorFlow, Keras et PyTorch.
 
 ## Compétences
