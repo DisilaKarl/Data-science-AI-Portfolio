@@ -30,6 +30,7 @@ Ensure the following libraries are installed to run the notebooks:
       seaborn
 
 You can install them using pip:
+
       pip install pandas numpy matplotlib seaborn
 
 ## Contact
