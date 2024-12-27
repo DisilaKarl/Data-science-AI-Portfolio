@@ -38,15 +38,15 @@ Run each notebook to see how to apply these techniques to your own datasets.
 
 Make sure to install the following libraries:
 
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+      pandas
+      numpy
+      matplotlib
+      seaborn
+      scikit-learn
 
 You can install them using pip:
-
-pip install pandas numpy matplotlib seaborn scikit-learn
+      
+      pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## Contact
 
