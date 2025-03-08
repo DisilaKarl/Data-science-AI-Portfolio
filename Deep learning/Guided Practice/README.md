@@ -1,64 +1,21 @@
-Guided Session 1 : CNN practice 
+# Deep Learning - Guided Practices
 
-Practice Description: Pneumonia Detection Using Chest X-Ray Images
-Objective:
-The goal of this practice is to build an image classification pipeline to detect whether a patient has pneumonia or is healthy based on chest X-ray images. The task involves experimenting with multiple approaches to identify the most effective method for this medical imaging problem.
+This is a collection of beginner-friendly tutorials and exercises to practice **Deep Learning** using **Convolutional Neural Networks (CNNs)**. These exercises will help you understand how CNNs work, especially in tasks like image classification.
 
+## What’s Inside?
 
+### 1. **CNN Practice**
+   - **What it is:** Learn the basics of **Convolutional Neural Networks** (CNNs). CNNs are commonly used for image-related tasks like classification.
+   - **What you will do:** You'll go through an exercise where you apply CNNs to classify images and understand how they work.
 
-Dataset: Chest X-Ray Images for Pneumonia
-Link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
-Details: The dataset contains labeled chest X-rays categorized into two classes:
-Normal: Healthy X-rays.
-Pneumonia: X-rays showing signs of pneumonia.
-Data Split: Train, Validation, and Test sets are pre-separated.
+### 2. **CNN MNIST**
+   - **What it is:** This is a classic exercise where you will use CNNs to classify images of handwritten numbers from the **MNIST dataset**.
+   - **What you will do:** You'll train a CNN to recognize digits like 0, 1, 2, etc., in images.
 
-Task:
-Train a classification model to predict whether an input chest X-ray shows signs of pneumonia (binary classification: Pneumonia or Normal).
+### 3. **Vanishing Gradient Problem**
+   - **What it is:** You will learn about a common problem in deep learning called the **Vanishing Gradient** problem, which happens when training deep neural networks.
+   - **What you will do:** Understand what this problem is and how it affects model training.
 
-
-
-Steps:
-
-1. Build a CNN from Scratch
-Objective: Develop a custom Convolutional Neural Network (CNN) architecture tailored for the dataset.
-Steps:
-Design a CNN architecture with layers like Conv2D, MaxPooling2D, Dropout, and Dense.
-Use techniques like:
-Data augmentation (e.g., rotation, flipping, zooming).
-Regularization (dropout, weight decay).
-Early stopping for training stability.
-Train the network from scratch on the dataset.Evaluation: Compare training/validation accuracy and analyze performance using metrics like precision, recall, F1-score, and AUC.
-
-2. Use a Famous CNN Architecture
-Objective: Leverage a popular, proven CNN architecture like VGG16, ResNet-50, or EfficientNet.
-Steps:
-Load the pre-defined architecture from torchvision.models.
-Randomly initialize weights instead of using pre-trained weights.
-Fine-tune the network for the binary classification task.
-Optimize hyperparameters like learning rate, optimizer type, and batch size.
-Evaluation: Compare results against the custom CNN and evaluate the impact of a deeper, more standardized architecture
-
-3. Transfer Learning
-Objective: Use a pre-trained model to leverage features learned on large datasets like ImageNet.
-Steps:
-Choose a pre-trained model (e.g., ResNet-50, DenseNet, Inception).
-Replace the final fully connected layer with a binary classification head.
-Freeze some earlier layers to retain pre-learned features.
-Fine-tune the remaining layers on the Chest X-Ray dataset.
-Experiment with fully fine-tuning the entire model.
-Evaluation: Analyze performance improvements compared to training from scratch.
-
-Experimentation Goals:
-
-1. Compare performance across all three methods:
-
-* Custom CNN
-* Standard Architecture (from scratch)
-* Transfer Learning
-
-2. Use metrics like:
-* Accuracy
-* Precision, Recall, and F1-score
-* ROC-AUC for assessing model confidence.
-
+### 4. **Torch Tutorial**
+   - **What it is:** This is a tutorial to help you get started with **PyTorch**, a popular deep learning library used for building models.
+   - **What you will do:** Learn how to use PyTorch to create simple deep learning models.
