@@ -50,12 +50,15 @@ Experiment with fully fine-tuning the entire model.
 Evaluation: Analyze performance improvements compared to training from scratch.
 
 Experimentation Goals:
-Compare performance across all three methods:
-Custom CNN
-Standard Architecture (from scratch)
-Transfer Learning
-Use metrics like:
-Accuracy
-Precision, Recall, and F1-score
-ROC-AUC for assessing model confidence.
+
+1. Compare performance across all three methods:
+
+* Custom CNN
+* Standard Architecture (from scratch)
+* Transfer Learning
+
+2. Use metrics like:
+* Accuracy
+* Precision, Recall, and F1-score
+* ROC-AUC for assessing model confidence.
 
