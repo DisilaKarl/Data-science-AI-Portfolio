@@ -1,4 +1,4 @@
-Guided Session 1 
+Guided Session 1 : CNN practice 
 
 Practice Description: Pneumonia Detection Using Chest X-Ray Images
 Objective:
