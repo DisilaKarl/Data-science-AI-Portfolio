@@ -18,7 +18,9 @@ Train a classification model to predict whether an input chest X-ray shows signs
 
 
 
-Steps:1. Build a CNN from Scratch
+Steps:
+
+1. Build a CNN from Scratch
 Objective: Develop a custom Convolutional Neural Network (CNN) architecture tailored for the dataset.
 Steps:
 Design a CNN architecture with layers like Conv2D, MaxPooling2D, Dropout, and Dense.
@@ -35,7 +37,8 @@ Load the pre-defined architecture from torchvision.models.
 Randomly initialize weights instead of using pre-trained weights.
 Fine-tune the network for the binary classification task.
 Optimize hyperparameters like learning rate, optimizer type, and batch size.
-Evaluation: Compare results against the custom CNN and evaluate the impact of a deeper, more standardized architecture.
+Evaluation: Compare results against the custom CNN and evaluate the impact of a deeper, more standardized architecture
+
 3. Transfer Learning
 Objective: Use a pre-trained model to leverage features learned on large datasets like ImageNet.
 Steps:
