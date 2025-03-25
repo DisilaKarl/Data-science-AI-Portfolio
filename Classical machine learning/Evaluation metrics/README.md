@@ -1,1 +1,0 @@
-An evaluation metric is a mathematical formula or an algorithm that is used to evaluate the performance of our machine learning algorithms. It doesn’t need to be differentiable. Don’t confuse it with objective functions because some function can be used both as an objective function and as an evaluation metric

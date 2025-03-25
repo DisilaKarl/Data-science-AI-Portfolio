@@ -1,1 +1,0 @@
-Use the iris flowers dataset that you can find in the sklearn package( sklearn.dataset.load_iris) to : Train a classical logistic regression model. After training your model, get a report detailing the results of your model using the classification metrics we studied in this lesson. Take the time to comment on your results and add your thoughts about your model’s performance.
