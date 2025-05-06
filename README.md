@@ -1,6 +1,6 @@
 # Welcome to My GitHub Portfolio!
 
-This repository contains all the major projects, assignments, and exercises completed during my Data Science & AI Bootcamp.
+This repository contains all the major projects, assignments, and exercises completed during my Data Science & AI Bootcamp at **Code Labs Academy** .
 Throughout the program, I used my skills in data science, machine learning, deep learning, and AI to build practical and applied solutions.
 All work was developed and executed using Google Colab.
 
